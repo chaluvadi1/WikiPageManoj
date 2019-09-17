@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## This is a wiki page to document python usage in the team
 
 You can use the [editor on GitHub](https://github.com/chaluvadi1/WikiPageManoj/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
