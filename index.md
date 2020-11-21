@@ -11,6 +11,9 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 ```markdown
 Syntax highlighted code block
 
+```bash
+git clone
+
 # Header 1
 ## Header 2
 ### Header 3
