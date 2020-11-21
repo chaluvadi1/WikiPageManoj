@@ -7,7 +7,7 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 ### Markdown
 
 ```console
-ls -latr
+ls -latr && git clone
 ```
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
