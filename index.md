@@ -13,6 +13,7 @@ Syntax highlighted code block
 
 ```bash
 git clone
+```
 
 # Header 1
 ## Header 2
